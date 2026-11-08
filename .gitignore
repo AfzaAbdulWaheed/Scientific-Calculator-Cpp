@@ -1,0 +1,15 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.a
+
+# Temporary files
+*.tmp
+*.bak
+
+# Dev-C++ temporary files
+*.layout
+*.depend
