@@ -1,55 +1,89 @@
-Scientific Calculator (C++)
+SCIENTIFIC CALCULATOR (C++)
+
 A menu-driven scientific calculator developed using C++. This project performs basic arithmetic and scientific calculations through a simple console-based menu.
 
-Features:
+FEATURES:
+
 Basic Operations
+
 Addition
+
 Subtraction
+
 Multiplication
+
 Division
 
-Scientific Operations:
+SCIENTIFIC OPERATIONS:
+
 Power
+
 Square Root
+
 Cube Root
+
 Absolute Value
+
 Exponent
+
 Average
+
 Sine
+
 Cosine
+
 Tangent
+
 Inverse Sine
+
 Inverse Cosine
+
 Inverse Tangent
+
 Factorial
+
 Percentage
+
 Logarithm
 
-Additional Features:
+ADDITIONAL FEATURES:
+
 Calculation History
+
 Clear Calculation History
+
 Menu-based navigation
 
-Technologies Used:
+TECHNOLOGIES USED:
+
 C++
+
 Dev-C++
+
 C++ Standard Library
+
 cmath Library
 
-Concepts Practiced:
+CONCEPTS PRACTICED:
+
 Functions
+
 Arrays and Vectors
+
 Pointers
+
 Loops
+
 Conditional Statements
+
 Switch Statements
 
-How to Run:
+HOW TO RUN:
 Download or clone this repository.
 Open the .cpp file in Dev-C++.
 Compile and run the program.
 Select an operation from the menu.
 
-Author:
+AUTHOR:
 
 Afza Abdul Waheed
